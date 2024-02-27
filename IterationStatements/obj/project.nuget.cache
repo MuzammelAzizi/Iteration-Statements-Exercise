@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PFxhlMswjMmUApwH13IO5CBL0VZKNrJIp5t5EhUKS6ts4LPXhAGdKvyNLVaL8lwOGuTAK3qTQP0mf9IUW7Fb+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muzam\\source\\repos\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muzam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\muzam\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\muzam\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\muzam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
